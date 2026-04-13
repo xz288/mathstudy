@@ -1,4 +1,4 @@
-<!-- topic: probability_estimate_theory | saved: 2026-04-13 19:50 -->
+<!-- topic: probability_estimate_theory | saved: 2026-04-13 19:51 -->
 # Week 1 Notes: MLE & MAP Estimation
 
 > **Study plan context:** Week 1, Day 1–4 — Estimation Theory  
